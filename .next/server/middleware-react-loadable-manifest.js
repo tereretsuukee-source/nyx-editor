@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/components/Editor.tsx -> @monaco-editor/react":{"id":9173,"files":["static/chunks/173.74b16bacaf9be031.js"]},"app/page.tsx -> ./components/Editor":{"id":4020,"files":["static/chunks/20.a6efbdd397faf73f.js"]}}';
